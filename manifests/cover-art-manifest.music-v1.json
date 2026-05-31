@@ -1,0 +1,200 @@
+﻿[
+    {
+        "fileName":  "aaj-ki-raat.mp3",
+        "title":  "AAJ KI RAAT",
+        "album":  "Don (Original Motion Picture Soundtrack)",
+        "coverFile":  "cover-don-original-motion-picture-soundtrack.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/08/12/40/081240bc-e812-5902-0608-380caceb6538/8902894601818_cover.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-don-original-motion-picture-soundtrack.jpg"
+    },
+    {
+        "fileName":  "ab-to-forever.mp3",
+        "title":  "Ab To Forever",
+        "album":  "Ta Ra Rum Pum (Original Motion Picture Soundtrack)",
+        "coverFile":  "cover-ta-ra-rum-pum-original-motion-picture-soundtrack.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/aa/6f/ff/aa6fff68-2afb-9b5e-fb15-0a9404978265/849486008106_cover.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-ta-ra-rum-pum-original-motion-picture-soundtrack.jpg"
+    },
+    {
+        "fileName":  "aari-aari.mp3",
+        "title":  "Aari Aari",
+        "album":  "Dhurandhar: The Revenge",
+        "coverFile":  "cover-dhurandhar-the-revenge.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/dc/a4/dcdca4bf-0e75-d88b-d211-c8c3eca5bfb9/8903431190581_cover.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-dhurandhar-the-revenge.jpg"
+    },
+    {
+        "fileName":  "follow-your-fire.mp3",
+        "title":  "Follow Your Fire",
+        "album":  "Politics of Living",
+        "coverFile":  "cover-politics-of-living.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/12/10/f6/1210f69e-e68f-1e2b-ef05-53a95a0acfae/886446555201.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-politics-of-living.jpg"
+    },
+    {
+        "fileName":  "gehra-hua.mp3",
+        "title":  "Gehra Hua",
+        "album":  "Dhurandhar",
+        "coverFile":  "cover-dhurandhar.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/87/0b/a8/870ba8fd-4d3c-2127-1653-39396b132445/199806576946.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-dhurandhar.jpg"
+    },
+    {
+        "fileName":  "hawa-hawa.mp3",
+        "title":  "Hawa Hawa",
+        "album":  "Hawa Hawa",
+        "coverFile":  "cover-hawa-hawa.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/73/00/49/730049a9-b8fa-91de-8553-9973d995d70b/cover.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-hawa-hawa.jpg"
+    },
+    {
+        "fileName":  "ishq-jalakar.mp3",
+        "title":  "Ishq Jalakar",
+        "album":  "Dhurandhar",
+        "coverFile":  "cover-dhurandhar-2.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/93/00/5b/93005b2a-b5d1-25f6-156e-eba657f3e9bb/199806529416.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-dhurandhar-2.jpg"
+    },
+    {
+        "fileName":  "jaan-se-guzarte-hain.mp3",
+        "title":  "Jaan Se Guzarte Hain",
+        "album":  "Dhurandhar: The Revenge",
+        "coverFile":  "cover-dhurandhar-the-revenge.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/dc/a4/dcdca4bf-0e75-d88b-d211-c8c3eca5bfb9/8903431190581_cover.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-dhurandhar-the-revenge.jpg"
+    },
+    {
+        "fileName":  "javeda-zindagi.mp3",
+        "title":  "Javeda Zindagi",
+        "album":  "Anwar (Original Motion Picture Soundtrack)",
+        "coverFile":  "cover-anwar-original-motion-picture-soundtrack.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/0b/fa/58/0bfa58d1-a5b0-a1a9-502b-710d23fb7a18/191773226787.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-anwar-original-motion-picture-soundtrack.jpg"
+    },
+    {
+        "fileName":  "kautilya-the-echo-project.mp3",
+        "title":  "Kautilya (The Echo Project)",
+        "album":  "Kautilya (The Echo Project)",
+        "coverFile":  "cover-kautilya-the-echo-project.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/af/66/97/af669734-5391-82b8-d756-199f0a0217b4/859776811125_cover.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-kautilya-the-echo-project.jpg"
+    },
+    {
+        "fileName":  "line-without-a-hook.mp3",
+        "title":  "Line Without a Hook",
+        "album":  "Montgomery Ricky",
+        "coverFile":  "cover-montgomery-ricky.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/66/5d/d4/665dd470-e8c1-d82c-ecd6-ae83e3c9162f/093624883357.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-montgomery-ricky.jpg"
+    },
+    {
+        "fileName":  "lutt-le-gaya.mp3",
+        "title":  "Lutt Le Gaya",
+        "album":  "Dhurandhar",
+        "coverFile":  "cover-dhurandhar-3.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/bd/69/42/bd694261-3e85-6fc3-f7e0-25870cdc26a0/199806748190.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-dhurandhar-3.jpg"
+    },
+    {
+        "fileName":  "main-yahaan-hoon.mp3",
+        "title":  "Main Yahaan Hoon",
+        "album":  "Veer-Zaara (Original Motion Picture Soundtrack)",
+        "coverFile":  "cover-veer-zaara-original-motion-picture-soundtrack.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/54/bf/16/54bf16a4-e56b-64aa-4afa-f5a122d1e283/849486008182_cover.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-veer-zaara-original-motion-picture-soundtrack.jpg"
+    },
+    {
+        "fileName":  "khwaish.mp3",
+        "title":  "Khwaish",
+        "album":  "Khwaish",
+        "coverFile":  "cover-khwaish.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/ec/b9/09/ecb909c9-92d8-f1a0-7d08-334257bd6923/859766276378_cover.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-khwaish.jpg"
+    },
+    {
+        "fileName":  "on-my-way.mp3",
+        "title":  "On My Way",
+        "album":  "On My Way",
+        "coverFile":  "cover-on-my-way.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Video124/v4/cd/5a/a2/cd5aa245-f28c-7bc0-21c5-269977dd3c70/dj.ckydxhna.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-on-my-way.jpg"
+    },
+    {
+        "fileName":  "phir-se.mp3",
+        "title":  "Phir Se",
+        "album":  "Dhurandhar: The Revenge",
+        "coverFile":  "cover-dhurandhar-the-revenge.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/dc/dc/a4/dcdca4bf-0e75-d88b-d211-c8c3eca5bfb9/8903431190581_cover.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-dhurandhar-the-revenge.jpg"
+    },
+    {
+        "fileName":  "ramba-ho.mp3",
+        "title":  "Ramba Ho",
+        "album":  "Dhurandhar",
+        "coverFile":  "cover-dhurandhar-4.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/9d/04/96/9d0496ed-248a-31b5-3410-c5b53f1ba19c/199806748299.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-dhurandhar-4.jpg"
+    },
+    {
+        "fileName":  "run-down-the-city-monica.mp3",
+        "title":  "Run Down The City Monica",
+        "album":  "Dhurandhar",
+        "coverFile":  "cover-dhurandhar-5.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/79/8d/a0/798da0a3-806a-9196-dfa2-b78d9ff02132/199806689127.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-dhurandhar-5.jpg"
+    },
+    {
+        "fileName":  "sahiba.mp3",
+        "title":  "Sahiba",
+        "album":  "Sahiba - Single",
+        "coverFile":  "cover-sahiba-single.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/cc/c8/e4/ccc8e4f7-935d-50eb-4103-28aebf242248/5021732549112.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-sahiba-single.jpg"
+    },
+    {
+        "fileName":  "the-burning-ghat.mp3",
+        "title":  "The Burning Ghat",
+        "album":  "The Burning Ghat - Single",
+        "coverFile":  "cover-the-burning-ghat-single.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/49/0b/7d/490b7d5a-65e9-cde0-7a80-a59d06ecc206/5059449226859.png/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-the-burning-ghat-single.jpg"
+    },
+    {
+        "fileName":  "title-track.mp3",
+        "title":  "Title Track",
+        "album":  "Dhurandhar",
+        "coverFile":  "cover-dhurandhar-6.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/89/74/08/897408d1-39d9-5d32-06a8-256ea77e4158/8902894362900_cover.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-dhurandhar-6.jpg"
+    },
+    {
+        "fileName":  "wherever-you-are.mp3",
+        "title":  "Wherever You Are",
+        "album":  "One Day at a Time",
+        "coverFile":  "cover-one-day-at-a-time.jpg",
+        "sourceProvider":  "itunes-search-api",
+        "sourceArtworkUrl":  "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/7e/a1/86/7ea18669-9c61-71c3-9ed2-ce3575b47bae/22CRGIM31717.rgb.jpg/1200x1200bb.jpg",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-one-day-at-a-time.jpg"
+    }
+]
