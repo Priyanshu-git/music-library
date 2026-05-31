@@ -1,0 +1,706 @@
+﻿[
+    {
+        "name":  "e334e8daf7db2058af623a2f47f5c209b38952f2e5124438b15492d018aaa8db",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "AAJ KI RAAT"
+                                 },
+                       "artist":  {
+                                      "stringValue":  ""
+                                  },
+                       "album":  {
+                                     "stringValue":  ""
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "369000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/aaj-ki-raat.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "aaj-ki-raat.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "14793801"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:49.9880133Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "e334e8daf7db2058af623a2f47f5c209b38952f2e5124438b15492d018aaa8db"
+                                    }
+                   }
+    },
+    {
+        "name":  "672c8334a24fec49d8387f39f804c70cf3514cf0e9b6164dd4ea0801db86d5f5",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Ab To Forever"
+                                 },
+                       "artist":  {
+                                      "stringValue":  ""
+                                  },
+                       "album":  {
+                                     "stringValue":  "Ta Ra Rum Pum"
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "301000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/ab-to-forever.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "ab-to-forever.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "12055123"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.0383956Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "672c8334a24fec49d8387f39f804c70cf3514cf0e9b6164dd4ea0801db86d5f5"
+                                    }
+                   }
+    },
+    {
+        "name":  "2d2d28406e9b9fff1cd5be7faeabee88d685cebb6ba58f0f49b5534031524995",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Aari Aari"
+                                 },
+                       "artist":  {
+                                      "stringValue":  "Shashwat Sachdev, Bombay Rockers, Irshad Kamil, Khan Saab, Reble, Token, Jasmine Sandlas, Sudhir Yaduvanshi"
+                                  },
+                       "album":  {
+                                     "stringValue":  "Dhurandhar The Revenge"
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "210000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/aari-aari.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "aari-aari.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "8514726"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.0697784Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "2d2d28406e9b9fff1cd5be7faeabee88d685cebb6ba58f0f49b5534031524995"
+                                    }
+                   }
+    },
+    {
+        "name":  "eb4aa4fa0269acf52ae12b6b9ad4d47829f8049354fea8df735d54059e826675",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Follow Your Fire"
+                                 },
+                       "artist":  {
+                                      "stringValue":  ""
+                                  },
+                       "album":  {
+                                     "stringValue":  ""
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "238000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/follow-your-fire.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "follow-your-fire.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "9546323"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.1172239Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "eb4aa4fa0269acf52ae12b6b9ad4d47829f8049354fea8df735d54059e826675"
+                                    }
+                   }
+    },
+    {
+        "name":  "c1700b420d9a0ae4dc442dd19795ec62f0483eb15f6e896b210557b2e905efec",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Gehra Hua"
+                                 },
+                       "artist":  {
+                                      "stringValue":  "Arijit Singh, Armaan Khan"
+                                  },
+                       "album":  {
+                                     "stringValue":  "Dhurandhar"
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "362000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/gehra-hua.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "gehra-hua.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "14547227"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.1720775Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "c1700b420d9a0ae4dc442dd19795ec62f0483eb15f6e896b210557b2e905efec"
+                                    }
+                   }
+    },
+    {
+        "name":  "a29755f35563f33aa97a37d18c19a92a582b016b23456ac2a89e2eb1a9ec7a54",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Hawa Hawa"
+                                 },
+                       "artist":  {
+                                      "stringValue":  "Hassan Jahangir"
+                                  },
+                       "album":  {
+                                     "stringValue":  ""
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "375000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/hawa-hawa.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "hawa-hawa.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "15032038"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.2062200Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "a29755f35563f33aa97a37d18c19a92a582b016b23456ac2a89e2eb1a9ec7a54"
+                                    }
+                   }
+    },
+    {
+        "name":  "8844ca1acec2a7c5c159465e9ec851daff3ae71111ff7f91e19129f62b82f8e9",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Ishq Jalakar"
+                                 },
+                       "artist":  {
+                                      "stringValue":  "Shashwat Sachdev, Shahzad Ali"
+                                  },
+                       "album":  {
+                                     "stringValue":  "Dhurandhar"
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "250000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/ishq-jalakar.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "ishq-jalakar.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "10064062"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.2540841Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "8844ca1acec2a7c5c159465e9ec851daff3ae71111ff7f91e19129f62b82f8e9"
+                                    }
+                   }
+    },
+    {
+        "name":  "a9e33e4a9098f3f8fbcd4609334e84dc834eabc81bbcf60c6df4786a0712838b",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Jaan Se Guzarte Hain"
+                                 },
+                       "artist":  {
+                                      "stringValue":  "Shashwat Sachdev, Khan Saab"
+                                  },
+                       "album":  {
+                                     "stringValue":  "Dhurandhar The Revenge"
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "332000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/jaan-se-guzarte-hain.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "jaan-se-guzarte-hain.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "13400669"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.3040107Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "a9e33e4a9098f3f8fbcd4609334e84dc834eabc81bbcf60c6df4786a0712838b"
+                                    }
+                   }
+    },
+    {
+        "name":  "f3dd4972408318135f1fc7beb7f8ba842cac0695d514ef67b736d4347f0c745e",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Javeda Zindagi"
+                                 },
+                       "artist":  {
+                                      "stringValue":  ""
+                                  },
+                       "album":  {
+                                     "stringValue":  ""
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "502000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/javeda-zindagi.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "javeda-zindagi.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "20103972"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.3621691Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "f3dd4972408318135f1fc7beb7f8ba842cac0695d514ef67b736d4347f0c745e"
+                                    }
+                   }
+    },
+    {
+        "name":  "87855901baad2dfe96a9ef5ae7b8b7e1446abc36ae694e2d32c689740491eccf",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Kautilya (The Echo Project)"
+                                 },
+                       "artist":  {
+                                      "stringValue":  ""
+                                  },
+                       "album":  {
+                                     "stringValue":  ""
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "191000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/kautilya-the-echo-project.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "kautilya-the-echo-project.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "7645654"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.3813288Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "87855901baad2dfe96a9ef5ae7b8b7e1446abc36ae694e2d32c689740491eccf"
+                                    }
+                   }
+    },
+    {
+        "name":  "8a5436c67a89c2d502cf8d6a15067a95c23297c63a08d88ce77958cb3cfc7795",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Line Without a Hook"
+                                 },
+                       "artist":  {
+                                      "stringValue":  ""
+                                  },
+                       "album":  {
+                                     "stringValue":  ""
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "249000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/line-without-a-hook.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "line-without-a-hook.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "9987270"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.4293595Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "8a5436c67a89c2d502cf8d6a15067a95c23297c63a08d88ce77958cb3cfc7795"
+                                    }
+                   }
+    },
+    {
+        "name":  "0ceffc43db05d502641004196ff1534eda4b5cc4ad5e74f57f1240f0984e5b7c",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Lutt Le Gaya"
+                                 },
+                       "artist":  {
+                                      "stringValue":  "Simran Choudhary, Shashwat Sachdev"
+                                  },
+                       "album":  {
+                                     "stringValue":  "Dhurandhar"
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "253000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/lutt-le-gaya.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "lutt-le-gaya.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "10215874"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.4729128Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "0ceffc43db05d502641004196ff1534eda4b5cc4ad5e74f57f1240f0984e5b7c"
+                                    }
+                   }
+    },
+    {
+        "name":  "7eaf93e0a84fd3a46763daca183e1bc5ee519b23a94e55b7c5922c0b2325b300",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Main Yahaan Hoon"
+                                 },
+                       "artist":  {
+                                      "stringValue":  ""
+                                  },
+                       "album":  {
+                                     "stringValue":  ""
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "294000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/main-yahaan-hoon.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "main-yahaan-hoon.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "11792854"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.5042478Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "7eaf93e0a84fd3a46763daca183e1bc5ee519b23a94e55b7c5922c0b2325b300"
+                                    }
+                   }
+    },
+    {
+        "name":  "00fca4d3c70f8281bb5eaf5ef1395929be67aed325399ec29cf5aaa695e0604a",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Khwaish"
+                                 },
+                       "artist":  {
+                                      "stringValue":  "Navjot Ahuja"
+                                  },
+                       "album":  {
+                                     "stringValue":  ""
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "211000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/khwaish.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "khwaish.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "8475303"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.5595565Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "00fca4d3c70f8281bb5eaf5ef1395929be67aed325399ec29cf5aaa695e0604a"
+                                    }
+                   }
+    },
+    {
+        "name":  "a3c1881498eb8cb3d820cab811213b3ccb2961db87dc031714f52bb6a01e8d94",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "On My Way"
+                                 },
+                       "artist":  {
+                                      "stringValue":  "Alan Walker, Sabrina Carpenter, Farruko"
+                                  },
+                       "album":  {
+                                     "stringValue":  "On My Way"
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "193000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/on-my-way.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "on-my-way.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "7833974"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.6135112Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "a3c1881498eb8cb3d820cab811213b3ccb2961db87dc031714f52bb6a01e8d94"
+                                    }
+                   }
+    },
+    {
+        "name":  "ebc2ff3d83658ce896f5d47bf5cf6412672cd8a1ded81ccfbe754d8718c81b52",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Phir Se"
+                                 },
+                       "artist":  {
+                                      "stringValue":  "Shashwat Sachdev, Arijit Singh, Irshad Kamil"
+                                  },
+                       "album":  {
+                                     "stringValue":  "Dhurandhar The Revenge"
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "354000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/phir-se.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "phir-se.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "14274203"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.6510509Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "ebc2ff3d83658ce896f5d47bf5cf6412672cd8a1ded81ccfbe754d8718c81b52"
+                                    }
+                   }
+    },
+    {
+        "name":  "05c36c9389fe1a1b0a3550ee36fb54dd6d27a29ad53c76ef3e8c4f6f79d94470",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Ramba Ho"
+                                 },
+                       "artist":  {
+                                      "stringValue":  "Indeevar, Shashwat Sachdev, Madhubanti Bagchi, Bappi Lahiri"
+                                  },
+                       "album":  {
+                                     "stringValue":  "Dhurandhar"
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "167000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/ramba-ho.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "ramba-ho.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "6738499"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.7046827Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "05c36c9389fe1a1b0a3550ee36fb54dd6d27a29ad53c76ef3e8c4f6f79d94470"
+                                    }
+                   }
+    },
+    {
+        "name":  "e9488fbaa05d94fbb9e9854a7bd03a98f4be05aab0287786e810e5fcad0e0dc2",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Run Down The City Monica"
+                                 },
+                       "artist":  {
+                                      "stringValue":  "Reble, Shashwat Sachdev"
+                                  },
+                       "album":  {
+                                     "stringValue":  "Dhurandhar"
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "140000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/run-down-the-city-monica.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "run-down-the-city-monica.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "5691468"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.7379275Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "e9488fbaa05d94fbb9e9854a7bd03a98f4be05aab0287786e810e5fcad0e0dc2"
+                                    }
+                   }
+    },
+    {
+        "name":  "b75a34e92f29f49edfc682412557739490418d51b82833fad99a8ee8fd845ba8",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Sahiba"
+                                 },
+                       "artist":  {
+                                      "stringValue":  ""
+                                  },
+                       "album":  {
+                                     "stringValue":  ""
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "190000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/sahiba.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "sahiba.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "7606993"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.7778621Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "b75a34e92f29f49edfc682412557739490418d51b82833fad99a8ee8fd845ba8"
+                                    }
+                   }
+    },
+    {
+        "name":  "f1e5cffca1230d2b32e6cedf50ed9dcdf9b20d97d21c733cdd61810343169514",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "The Burning Ghat"
+                                 },
+                       "artist":  {
+                                      "stringValue":  ""
+                                  },
+                       "album":  {
+                                     "stringValue":  ""
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "418000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/the-burning-ghat.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "the-burning-ghat.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "16746715"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.8214294Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "f1e5cffca1230d2b32e6cedf50ed9dcdf9b20d97d21c733cdd61810343169514"
+                                    }
+                   }
+    },
+    {
+        "name":  "91274b7da816da022a62815eda833e772616d3ed078ccd8fafa91d88787144f0",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Title Track"
+                                 },
+                       "artist":  {
+                                      "stringValue":  "Hanumankind, Jasmine Sandlas"
+                                  },
+                       "album":  {
+                                     "stringValue":  "Dhurandhar"
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "155000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/title-track.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "title-track.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "6264731"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.8859561Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "91274b7da816da022a62815eda833e772616d3ed078ccd8fafa91d88787144f0"
+                                    }
+                   }
+    },
+    {
+        "name":  "c9ef731e8e7340c88d8272d3381aa98863143b3d05d33b7cc1668a135f5d9ba1",
+        "fields":  {
+                       "title":  {
+                                     "stringValue":  "Wherever You Are"
+                                 },
+                       "artist":  {
+                                      "stringValue":  ""
+                                  },
+                       "album":  {
+                                     "stringValue":  ""
+                                 },
+                       "durationMs":  {
+                                          "integerValue":  "185000"
+                                      },
+                       "audioUrl":  {
+                                        "stringValue":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/wherever-you-are.mp3"
+                                    },
+                       "fileName":  {
+                                        "stringValue":  "wherever-you-are.mp3"
+                                    },
+                       "sizeBytes":  {
+                                         "integerValue":  "7404283"
+                                     },
+                       "updatedAt":  {
+                                         "timestampValue":  "2026-05-31T14:12:50.9334759Z"
+                                     },
+                       "fileHash":  {
+                                        "stringValue":  "c9ef731e8e7340c88d8272d3381aa98863143b3d05d33b7cc1668a135f5d9ba1"
+                                    }
+                   }
+    }
+]
