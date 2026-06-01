@@ -1,0 +1,98 @@
+﻿[
+    {
+        "title":  "Awari",
+        "artist":  "Adnan Dhool, Momina Mustehsan",
+        "album":  "Ek Villain (Original Motion Picture Soundtrack)",
+        "durationMs":  320000,
+        "audioUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/awari.mp3",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-ek-villain-original-motion-picture-soundtrack.jpg",
+        "fileName":  "awari.mp3",
+        "sizeBytes":  12889904,
+        "updatedAt":  "2026-06-01T07:46:42.9642905Z",
+        "fileHash":  "04276d6c0109cec4d6e651b60b74a244d6966845f7c6be3b066904d59ba91560"
+    },
+    {
+        "title":  "Banjaara",
+        "artist":  "Mohammed Irfan",
+        "album":  "Ek Villain (Original Motion Picture Soundtrack)",
+        "durationMs":  336000,
+        "audioUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/banjaara.mp3",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-ek-villain-original-motion-picture-soundtrack.jpg",
+        "fileName":  "banjaara.mp3",
+        "sizeBytes":  13542917,
+        "updatedAt":  "2026-06-01T07:46:43.0141053Z",
+        "fileHash":  "18a844632c47421b0780ab47fd400bc626ee107e118169d055bf37f3673709d9"
+    },
+    {
+        "title":  "Chanakya",
+        "artist":  "Rishab Rikhiram Sharma",
+        "album":  "Chanakya - Single",
+        "durationMs":  163000,
+        "audioUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/chanakya.mp3",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-chanakya-single.jpg",
+        "fileName":  "chanakya.mp3",
+        "sizeBytes":  2610297,
+        "updatedAt":  "2026-06-01T07:46:43.1874723Z",
+        "fileHash":  "b1649cc9d1c3ac637f4330ef80e0ae3d5db34784b736f527ecd4329442458bf9"
+    },
+    {
+        "title":  "Shiv Kailasho Ke Wasi",
+        "artist":  "Akash Sharma",
+        "album":  "Shiv Kailasho Ke Wasi - Single",
+        "durationMs":  313000,
+        "audioUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/shiv-kailasho-ke-wasi.mp3",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-shiv-kailasho-ke-wasi-single.jpg",
+        "fileName":  "shiv-kailasho-ke-wasi.mp3",
+        "sizeBytes":  2508101,
+        "updatedAt":  "2026-06-01T07:46:43.4600402Z",
+        "fileHash":  "0a704a5dd704790dbfa61aca71139db7c9729d7d1dca38ed93d3ffb106379236"
+    },
+    {
+        "title":  "Tera Rastaa Chhodoon Na",
+        "artist":  "Amitabh Bhattacharya, Anusha Mani",
+        "album":  "Chennai Express (Original Motion Picture Soundtrack)",
+        "durationMs":  253000,
+        "audioUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/tera-rastaa-chhodoon-na.mp3",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-chennai-express-original-motion-picture-soundtrack.jpg",
+        "fileName":  "tera-rastaa-chhodoon-na.mp3",
+        "sizeBytes":  10204564,
+        "updatedAt":  "2026-06-01T07:46:43.7034157Z",
+        "fileHash":  "382b655a764abdb51593ae4bf49f7f4f26812b1831f9caae9189261926fd33cc"
+    },
+    {
+        "title":  "Teri Jhuki Nazar",
+        "artist":  "Shafqat Amanat Ali, Pritam",
+        "album":  "Murder 3 (Original Motion Picture Soundtrack)",
+        "durationMs":  279000,
+        "audioUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/teri-jhuki-nazar.mp3",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-murder-3-original-motion-picture-soundtrack.jpg",
+        "fileName":  "teri-jhuki-nazar.mp3",
+        "sizeBytes":  11224026,
+        "updatedAt":  "2026-06-01T07:46:43.9044261Z",
+        "fileHash":  "b036f184be01f8b33dd119d990c04a771d3bb01596d2997ab63156906711333f"
+    },
+    {
+        "title":  "The Line",
+        "artist":  "Twenty One Pilots, Arcane, League of Legends Music",
+        "album":  "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
+        "durationMs":  192000,
+        "audioUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/the-line.mp3",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-arcane-league-of-legends-season-2-soundtrack-from-the-animated-series.jpg",
+        "fileName":  "the-line.mp3",
+        "sizeBytes":  2806826,
+        "updatedAt":  "2026-06-01T07:46:44.0384736Z",
+        "fileHash":  "d931cdd61ea4b35076434e19b15d616ee4e77259e3a9b2efb639938205b7f1b7"
+    },
+    {
+        "title":  "Titli",
+        "artist":  "Chinmayi Sripada, Gopi Sundar",
+        "album":  "Chennai Express (Original Motion Picture Soundtrack)",
+        "durationMs":  350000,
+        "audioUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/titli.mp3",
+        "coverArtUrl":  "https://github.com/Priyanshu-git/music-library/releases/download/music-v1/cover-chennai-express-original-motion-picture-soundtrack.jpg",
+        "fileName":  "titli.mp3",
+        "sizeBytes":  14110367,
+        "updatedAt":  "2026-06-01T07:46:44.0852752Z",
+        "fileHash":  "c2a18ee18078e11899ab26b37441e3426bd9e3266f6ce4cf1671244aeaee17ab"
+    }
+]
